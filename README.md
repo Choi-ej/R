@@ -6,3 +6,10 @@ To output the same statistical information as when using the 'univariate' functi
 - Median, quartiles, maximum, and minimum values
 - Outliers
 - Several visualizations to aid in understanding the distribution's shape.
+
+### nonParametic folder
+#### assignment 1
+- paired t test
+- two sample t test
+- multiple tables using for loop twice
+#### assignment 2
