@@ -13,3 +13,8 @@ To output the same statistical information as when using the 'univariate' functi
 - two sample t test
 - multiple tables using for loop twice
 #### assignment 2
+- Simulating Central limit theore
+  - Bernoulli distribution : mean, median
+  - Chisq distribution : mean, median
+  - uniform distribution : mean, median
+  - Normal distribution : mean, median
